@@ -188,4 +188,5 @@ def calculate_total(*args, **kwargs):
 calculate_total(10, 20, 30, discount=5)  # ✅ Works with discount
 calculate_total(50, 50)  # ✅ Works without discount
 
+print("Gittesting")
 
